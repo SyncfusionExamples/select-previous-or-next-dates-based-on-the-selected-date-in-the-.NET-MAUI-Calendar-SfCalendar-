@@ -1,7 +1,7 @@
 # How to select previous or next dates based on the selected date in the .NET MAUI Calendar (SfCalendar)
 This repository contains a sample to select previous or next dates based on the selected date in the [Syncfusion .NET MAUI Calendar](https://help.syncfusion.com/maui/calendar/getting-started) control.
 
-Please refer the KB through this link.
+Please refer the KB through this [link](https://www.syncfusion.com/kb/13970/how-to-select-previous-or-next-dates-based-on-the-selected-date-in-the-net-maui-calendar).
 
 ## Syncfusion controls
 
